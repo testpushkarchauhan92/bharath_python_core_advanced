@@ -1,0 +1,14 @@
+a=7
+b=13
+c=-19
+print(a,b,c)
+print(type(a))
+print(type(b))
+print(type(c))
+pi=3.14
+e=2.718
+tau=6.28
+print(pi,e,tau)
+print(type(pi))
+print(type(e))
+print(type(tau))

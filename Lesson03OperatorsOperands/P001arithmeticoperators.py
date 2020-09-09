@@ -1,0 +1,16 @@
+a,b=10,5
+print("Addition : ")
+print(a+b)
+print("Subtraction : ")
+print(a-b)
+print("Multiplication : ")
+print(a*b)
+print("Division : ")
+print(a/b)
+print("Modulus : ")
+print(a%b)
+print("Exponent : ")
+print(a**b)
+print("Floor Div : ")
+# 5 times what is 10
+print(a//b)
